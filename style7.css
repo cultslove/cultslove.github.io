@@ -1,0 +1,30 @@
+/* Change the color of at least two elements */
+h1 {
+    color: darkblue;
+}
+p {
+    color: #444444;
+}
+
+/* Change the font properties of at least two elements */
+h1 {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+ul {
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 16px;
+}
+
+/* One additional style change (background color + text alignment) */
+body {
+    background-color: #f2f5ff;
+    text-align: left;
+    margin: 20px;
+}
+
+img {
+    border-radius: 10px;
+    display: block;
+    margin-bottom: 15px;
+}
